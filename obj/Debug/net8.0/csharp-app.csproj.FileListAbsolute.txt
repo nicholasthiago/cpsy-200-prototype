@@ -1,0 +1,28 @@
+C:\Users\nicho\OneDrive\Documents\PROJECTS\other\csharp-app\bin\Debug\net8.0\csharp-app.exe
+C:\Users\nicho\OneDrive\Documents\PROJECTS\other\csharp-app\bin\Debug\net8.0\csharp-app.deps.json
+C:\Users\nicho\OneDrive\Documents\PROJECTS\other\csharp-app\bin\Debug\net8.0\csharp-app.runtimeconfig.json
+C:\Users\nicho\OneDrive\Documents\PROJECTS\other\csharp-app\bin\Debug\net8.0\csharp-app.dll
+C:\Users\nicho\OneDrive\Documents\PROJECTS\other\csharp-app\bin\Debug\net8.0\csharp-app.pdb
+C:\Users\nicho\OneDrive\Documents\PROJECTS\other\csharp-app\obj\Debug\net8.0\csharp-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicho\OneDrive\Documents\PROJECTS\other\csharp-app\obj\Debug\net8.0\csharp-app.AssemblyInfoInputs.cache
+C:\Users\nicho\OneDrive\Documents\PROJECTS\other\csharp-app\obj\Debug\net8.0\csharp-app.AssemblyInfo.cs
+C:\Users\nicho\OneDrive\Documents\PROJECTS\other\csharp-app\obj\Debug\net8.0\csharp-app.csproj.CoreCompileInputs.cache
+C:\Users\nicho\OneDrive\Documents\PROJECTS\other\csharp-app\obj\Debug\net8.0\csharp-app.dll
+C:\Users\nicho\OneDrive\Documents\PROJECTS\other\csharp-app\obj\Debug\net8.0\refint\csharp-app.dll
+C:\Users\nicho\OneDrive\Documents\PROJECTS\other\csharp-app\obj\Debug\net8.0\csharp-app.pdb
+C:\Users\nicho\OneDrive\Documents\PROJECTS\other\csharp-app\obj\Debug\net8.0\csharp-app.genruntimeconfig.cache
+C:\Users\nicho\OneDrive\Documents\PROJECTS\other\csharp-app\obj\Debug\net8.0\ref\csharp-app.dll
+C:\Users\nicho\OneDrive\Documents\SAIT - ITSD\FALL 2023\CPSY 200\Final Project - Part C\bin\Debug\net8.0\csharp-app.exe
+C:\Users\nicho\OneDrive\Documents\SAIT - ITSD\FALL 2023\CPSY 200\Final Project - Part C\bin\Debug\net8.0\csharp-app.deps.json
+C:\Users\nicho\OneDrive\Documents\SAIT - ITSD\FALL 2023\CPSY 200\Final Project - Part C\bin\Debug\net8.0\csharp-app.runtimeconfig.json
+C:\Users\nicho\OneDrive\Documents\SAIT - ITSD\FALL 2023\CPSY 200\Final Project - Part C\bin\Debug\net8.0\csharp-app.dll
+C:\Users\nicho\OneDrive\Documents\SAIT - ITSD\FALL 2023\CPSY 200\Final Project - Part C\bin\Debug\net8.0\csharp-app.pdb
+C:\Users\nicho\OneDrive\Documents\SAIT - ITSD\FALL 2023\CPSY 200\Final Project - Part C\obj\Debug\net8.0\csharp-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicho\OneDrive\Documents\SAIT - ITSD\FALL 2023\CPSY 200\Final Project - Part C\obj\Debug\net8.0\csharp-app.AssemblyInfoInputs.cache
+C:\Users\nicho\OneDrive\Documents\SAIT - ITSD\FALL 2023\CPSY 200\Final Project - Part C\obj\Debug\net8.0\csharp-app.AssemblyInfo.cs
+C:\Users\nicho\OneDrive\Documents\SAIT - ITSD\FALL 2023\CPSY 200\Final Project - Part C\obj\Debug\net8.0\csharp-app.csproj.CoreCompileInputs.cache
+C:\Users\nicho\OneDrive\Documents\SAIT - ITSD\FALL 2023\CPSY 200\Final Project - Part C\obj\Debug\net8.0\csharp-app.dll
+C:\Users\nicho\OneDrive\Documents\SAIT - ITSD\FALL 2023\CPSY 200\Final Project - Part C\obj\Debug\net8.0\refint\csharp-app.dll
+C:\Users\nicho\OneDrive\Documents\SAIT - ITSD\FALL 2023\CPSY 200\Final Project - Part C\obj\Debug\net8.0\csharp-app.pdb
+C:\Users\nicho\OneDrive\Documents\SAIT - ITSD\FALL 2023\CPSY 200\Final Project - Part C\obj\Debug\net8.0\csharp-app.genruntimeconfig.cache
+C:\Users\nicho\OneDrive\Documents\SAIT - ITSD\FALL 2023\CPSY 200\Final Project - Part C\obj\Debug\net8.0\ref\csharp-app.dll
