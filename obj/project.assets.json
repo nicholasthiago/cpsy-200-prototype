@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nicho\\OneDrive\\Documents\\SAIT - ITSD\\FALL 2023\\CPSY 200\\Final Project - Part C\\csharp-app.csproj",
+      "projectUniqueName": "C:\\Users\\nicho\\OneDrive\\Documents\\SAIT - ITSD\\FALL 2023\\CPSY 200\\cpsy-200-prototype\\csharp-app.csproj",
       "projectName": "csharp-app",
-      "projectPath": "C:\\Users\\nicho\\OneDrive\\Documents\\SAIT - ITSD\\FALL 2023\\CPSY 200\\Final Project - Part C\\csharp-app.csproj",
+      "projectPath": "C:\\Users\\nicho\\OneDrive\\Documents\\SAIT - ITSD\\FALL 2023\\CPSY 200\\cpsy-200-prototype\\csharp-app.csproj",
       "packagesPath": "C:\\Users\\nicho\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nicho\\OneDrive\\Documents\\SAIT - ITSD\\FALL 2023\\CPSY 200\\Final Project - Part C\\obj\\",
+      "outputPath": "C:\\Users\\nicho\\OneDrive\\Documents\\SAIT - ITSD\\FALL 2023\\CPSY 200\\cpsy-200-prototype\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nicho\\AppData\\Roaming\\NuGet\\NuGet.Config"
